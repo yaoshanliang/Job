@@ -24,10 +24,10 @@
       $v = 2;
     }
 
-写代码，去除数组中值等于$v的
+9、写代码，去除数组中值等于$v的
 
-写代码，PHP冒泡排序
+10、写代码，PHP冒泡排序
 
-写代码，文件夹遍历
+11、写代码，文件夹遍历
 
-写代码，获取[http://www.google.com.hk/?q=php](http://www.google.com.hk/?q=php)网页的内容,提取里面的所有链接，写入url.txt文件
+12、写代码，获取[http://www.google.com.hk/?q=php](http://www.google.com.hk/?q=php)网页的内容,提取里面的所有链接，写入url.txt文件
