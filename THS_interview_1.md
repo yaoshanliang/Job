@@ -1,33 +1,15 @@
-1、PHP变量命名
+1、PHP操作mysql的具体过程，不用框架
 
-2、获取post值的方法
+2、Ajax请求的具体过程
 
-3、cookie与session区别
+3、举例数组的函数
 
-4、
- 
-    for($i = 0; $i < 10; $i++)
-    {
-      print $i;
-    }
+4、preg\_match、preg\_match\_all、preg\_replace区别用法
 
-5、echo 和print_r的区别
+5、主外键、索引相关
 
-6、单引号与双引号包围字符串的区别
+6、mysql、PDO、mysqli区别及使用，预处理怎么实现
 
-7、apache配置文件的路径、log路径、访问日志的路径、默认DocumentRoot路径
+7、使用js产生image标签
 
-8、$a=array('1', '2')，经过如下操作后$a的值
-
-    foreach($a as $v)
-    {
-      $v = 2;
-    }
-
-9、写代码，去除数组中值等于$v的
-
-10、写代码，PHP冒泡排序
-
-11、写代码，文件夹遍历
-
-12、写代码，获取[http://www.google.com.hk/?q=php](http://www.google.com.hk/?q=php)网页的内容,提取里面的所有链接，写入url.txt文件
+8、PHP有哪些预定义的全局变量
